@@ -188,14 +188,14 @@ img {
   .mobile-address-link {
     font-style: normal;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 24px;
     color: #434455;
   }
 
   .mobile-address-link.tel {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
     color: #4D5AE5;
   }
 
@@ -231,7 +231,7 @@ img {
   color: #ffffff;
   letter-spacing: 0.02em;
   margin-bottom: 48px;
-  max-width: 320px;
+  max-width: 216px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -378,8 +378,6 @@ img {
 
 .social-icon {
   fill: #f4f4fd;
-  width: 16px;
-  height: 16px;
 }
 
 .team-social {
@@ -520,7 +518,7 @@ img {
 
 .subscribe-input {
   width: 100%;
-  max-width: 398px;
+  max-width: 288px;
   height: 40px;
   background-color: transparent;
   border: 1px solid #ffffff;
